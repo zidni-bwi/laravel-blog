@@ -1,7 +1,7 @@
-
-build APKs:
+Running Blog:
 
 `$ npm install`
+
 `$ php artisan serve`
 
 **Screenshot:**
