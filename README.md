@@ -1,7 +1,22 @@
 Blog Sederhana Menggunakan Framework Laravel v8.x
 
 username: admin
+
 password: 12345678
+
+Fitur - Fitur:
+
+- Login
+
+- Registrasi
+
+- Buat, Edit, Hapus Postingan
+
+- Hapus Member
+
+- Sorting Postingan
+
+- Manajemen Profil
 
 Running Blog:
 
