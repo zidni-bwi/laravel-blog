@@ -1,3 +1,8 @@
+Blog Sederhana Menggunakan Framework Laravel v8.x
+
+username: admin
+password: 12345678
+
 Running Blog:
 
 `$ npm install`
